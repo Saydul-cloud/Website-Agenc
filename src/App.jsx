@@ -1,11 +1,12 @@
 import React from 'react'
-
-
-
+import Navbar from './layouts/Navbar'
+import Banner from './layouts/Banner'
 const App = () => {
   return (
     <div>
-<h1>ALl components done</h1>
+      <Navbar/>
+      <Banner/>
+
     </div>
   )
 }
