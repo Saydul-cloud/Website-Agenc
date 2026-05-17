@@ -22,8 +22,11 @@ third: '#151515',
 
         fontFamily: {
       inter: ["Inter", "sans-serif"],
-        }
+        },
 
+spacing:{
+  150:"150px"
+}
 
     },
   },

@@ -15,7 +15,7 @@ import IconSix from '../assets/service6.png'
 const Service = () => {
 
   return (
-    <section className=' pb-[103px]'>
+    <section className='pb-[103px]'>
         <Container>
 <Heading text="Our Provided service" className='text-center'/>
 <SubHeading text="There are many variations of

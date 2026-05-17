@@ -7,8 +7,10 @@ import SubHeading from './components/SubHeading'
 import Service from './layouts/Service'
 import Image from './components/Image'
 import IconOne from './assets/service.png'
-
-
+import Work from './components/Work'
+import Agency from './layouts/Agency'
+import Contact from './layouts/Contact'
+import Footer from './layouts/Footer'
 
 const App = () => {
   return (
@@ -17,8 +19,11 @@ const App = () => {
       <Banner/>
       <Success/>
       <Service/>
-       
+      <Work/>
+<Agency/>
       
+<Contact/>
+<Footer/>
 
 
 
